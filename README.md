@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gokul @codegritt
-- 👀 I’m interested in Fullstack web development
+- 👀 I’m interested in Fullstack web & app development
 - 🌱 I’m currently learning Html,css,Js languages & Angular,React frameworks
 - 💞️ I’m looking to collaborate on full time job oppurtunities that requires the above expertise & skills
 - 📫 Reach me https://github.com/codegritt
