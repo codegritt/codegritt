@@ -2,7 +2,7 @@
 - 👀 I’m interested in Fullstack web & app development
 -Languages - Html5, Css3, SASS, JavaScript(ES6)
 -Frameworks/Libraries - Angular, Node.js, Express.js, React.js, Mongoose
--Databases-MongoDB
+-Databases-MongoDB, MySQL
 -Programming Skills - Visual studio code,NPM,Git ,Postman,Mlab
 - 💞️ I’m looking to collaborate on full time job oppurtunities that requires the above expertise & skills
 - 📫 Reach me https://github.com/codegritt
